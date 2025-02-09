@@ -1,2 +1,2 @@
-#!/bin/bash
-find /holbertonschool-shell -type d -exec chmod 111
+i#!/bin/bash
+find .-type d -exec chmod a+x
