@@ -1,2 +1,2 @@
 #!/bin/bash
-find - tye f - name '*.js' | rm *.js
+find . -tye f -name '*.js' | rm -f *.js
